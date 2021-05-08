@@ -21,8 +21,7 @@ section {
   padding: 10px;
 }
 
-section > span {
-  margin-left: 10px;
+section > a {
   font-size: 1rem;
   opacity: 0.8;
 }
